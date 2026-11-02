@@ -1,5 +1,3 @@
-module pages.local/site
+module github.com/luizdepra/hugo-coder
 
-go 1.25.0
-
-replace github.com/luizdepra/hugo-coder => ./themes/template
+go 1.16
